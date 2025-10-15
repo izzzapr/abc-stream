@@ -1,0 +1,29 @@
+{
+  "id": "org.tampa.abc",
+  "version": "1.0.0",
+  "name": "ABC Action News Tampa Bay",
+  "description": "Watch ABC Action News Live Stream in Stremio",
+  "types": ["tv"],
+  "resources": ["catalog", "stream"],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "abc-catalog",
+      "name": "ABC Action News Tampa Bay"
+    }
+  ],
+  "metas": [
+    {
+      "id": "abc-live",
+      "type": "tv",
+      "name": "ABC Action News Live",
+      "poster": "https://mediaassets.abcactionnews.com/image/OTT/DPL_2025.png",
+      "background": "https://mediaassets.abcactionnews.com/image/OTT/DPL_2025.png",
+      "description": "Live ABC Action News stream from Tampa Bay",
+      "stream": {
+        "title": "ABC Action News Live",
+        "url": "https://content.uplynk.com/channel/5bfc0bb9d2be47448fb2c1aaaa2dfd0a.m3u8"
+      }
+    }
+  ]
+}
