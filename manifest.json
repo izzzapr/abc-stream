@@ -17,8 +17,8 @@
       "id": "abc-live",
       "type": "tv",
       "name": "ABC Action News Live",
-      "poster": "https://mediaassets.abcactionnews.com/image/OTT/DPL_2025.png",
-      "background": "https://mediaassets.abcactionnews.com/image/OTT/DPL_2025.png",
+      "poster": "https://mediaassets.abcactionnews.com/image/OTT/ANCHORS-REPORT.jpg",
+      "background": "https://mediaassets.abcactionnews.com/image/OTT/ANCHORS-REPORT.jpg",
       "description": "Live ABC Action News stream from Tampa Bay",
       "stream": {
         "title": "ABC Action News Live",
